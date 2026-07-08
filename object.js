@@ -9,12 +9,19 @@
 
 // Map data structure 
 
-let myMap = new Map()
+// let myMap = new Map()
 
-myMap.set("name", "saurabh")
-myMap.set("age", 24)
-myMap.set("gmail", "saurabh@gmail.com")
-myMap.set("phone", 9303088893)
+// myMap.set("name", "saurabh")
+// myMap.set("age", 24)
+// myMap.set("gmail", "saurabh@gmail.com")
+// myMap.set("phone", 9303088893)
 
-console.log(myMap.clear())
-console.log(myMap)
+// console.log(myMap.clear())
+// console.log(myMap)
+
+let mySet = new Set()
+mySet.add('saurabh')
+// mySet.add('saurabh')
+// mySet.add('abhisek')
+// mySet.add('aman')
+console.log(mySet)
